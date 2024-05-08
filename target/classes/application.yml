@@ -1,0 +1,34 @@
+emp:
+   info: 
+       name: raja
+       id: 1001
+       addrs: hyd
+       salary: 89000
+     
+       fav-colors: 
+              -  red
+              -  green
+              - yellow
+       favColors: [red , green,blue] 
+            
+       phones: 
+            - 9999999
+            - 8888888
+            - 7777777
+       idDetails:
+            adhar: 10015454
+            voterid: 4534555
+            passport: 545455
+       company: 
+            cid: 4567
+            name: HCL
+            size: 89     
+   data:
+     email: natarazjavaarena@gmail.com    
+       
+spring:
+  config:
+      import: 
+         - Info.yml
+         - info1.properties  
+      
