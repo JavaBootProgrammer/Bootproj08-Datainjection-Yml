@@ -1,11 +1,11 @@
-package com.nt;
+package com.employee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ConfigurableApplicationContext;
 
-import com.nt.sbeans.EmployeeInfo;
+import com.employee.sbeans.EmployeeInfo;
 
 @SpringBootApplication
 public class BootProj08DataInjectionYmlApplication {

@@ -1,4 +1,4 @@
-package com.nt.sbeans;
+package com.employee.sbeans;
 
 import java.util.Map;
 import java.util.Set;
